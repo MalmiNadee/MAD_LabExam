@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Space Shooter</string>
+    <string name="play">Play</string>
+    <string name="description">Icon for starting the game</string>
+</resources>

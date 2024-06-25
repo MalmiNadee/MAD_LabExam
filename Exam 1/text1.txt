@@ -1,0 +1,17 @@
+MediDoc App: Booking Doctor and Lab Test Appointments
+
+Description:
+
+MedidDoc is an innovative mobile application designed to facilitate the process of booking doctor appointments and Lab Test Appointments seamlessly. With the aim of providing convenience and efficiency to users, Medidoc streamlines the appointment scheduling process, enabling users to easily find and book appointments with healthcare professionals of their choice.
+
+Key features of MediDoc:
+
+Doctor Appointment Booking: Users can easily search for doctors. The app provides detailed profiles of each doctor, including their qualifications, experience, and patient reviews, allowing users to make informed decisions when booking appointments. 
+
+Lab Test Appointment Booking: In addition to doctor appointments, users can also schedule appointments for various lab tests. The app offers a wide range of tests covering different medical specialties, and users can select the tests they need and choose a convenient time slot for their appointment.
+
+User Profiles: Users can create personal profiles within the app, where they can store their contact details. This information is securely stored and can be easily accessed when booking appointments, ensuring a seamless experience.
+
+Appointment Reminders: MediDoc sends timely reminders to users about their upcoming appointments, helping them stay organized and ensuring they do not miss any important medical visits and they can update and delete their appointments and view their appointments.
+
+Medidoc application interact users with healthcare services by simplifying the process of booking doctors and Lab Test appointments. With its intuitive interface and comprehensive features, Medidoc aims to enhance accessibility to healthcare professionals while ensuring a seamless user experience.
